@@ -1,0 +1,15 @@
+img {
+    width: 250px;
+    height: 150px;
+    align-items: center;
+    border:rgb(0, 0, 0);
+    border-radius: 50px;
+    border-style:solid;
+}
+body {
+    text-align:center;
+    text-spacing-trim:space-all;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:#ffffff;
+    color:rgb(0, 0, 0);
+}
